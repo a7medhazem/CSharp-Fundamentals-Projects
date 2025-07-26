@@ -1,0 +1,14 @@
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+D:\CSharp-Fundamentals-Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll

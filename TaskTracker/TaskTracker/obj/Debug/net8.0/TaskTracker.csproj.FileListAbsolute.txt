@@ -1,0 +1,14 @@
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+D:\CSharp-Fundamentals-Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
