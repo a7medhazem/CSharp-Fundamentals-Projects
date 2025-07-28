@@ -24,8 +24,7 @@ Users can **add, update, view, and remove products** via a menu-driven interface
 - 🔄 Update existing product details
 - 👀 View all products with ID, name, quantity, and price
 - ❌ Remove products by ID
-- ✅ Input validation using `int.TryParse`
-- 🧼 Clean and minimal C# logic
+- 🚪 Exit the program
 
 📂 **Project Folder:** `InventoryManagementSystem`
 
@@ -37,6 +36,7 @@ A fun general knowledge quiz that challenges users with **10 questions**, provid
 
 **🔑 Key Features:**
 
+- ❓ Ask 10 questions
 - 🔤 Case-insensitive answer checking
 - ✅ Green for correct ✔️, ❌ Red for incorrect
 - 📚 Displays correct answers for wrong responses
@@ -49,41 +49,28 @@ A fun general knowledge quiz that challenges users with **10 questions**, provid
 
 ### 📋 Task Tracker Console App
 
-A simple task manager where users can **add, view, mark as complete, and remove tasks** using a menu.
+A simple task management app where users can:
 
-**🔑 Key Features:**
+- [0] View Options  
+- [1] Add Task  
+- [2] View All Tasks  
+- [3] Mark Task as Complete  
+- [4] Remove Task  
+- [5] Exit  
 
-- 📌 Stores up to 100 tasks in a fixed-size array
-- ✔️ Mark tasks as completed
-- 🗑️ Remove tasks by task number
-- 🛡️ Input validation using `int.TryParse`
-- 🚪 Clean exit with `Environment.Exit`
+🔑 **Key Features**:
 
-📂 **Project Folder:** `TaskTracker`
+- 📌 Stores up to 100 tasks in a fixed-size array  
+- ✔️ Mark tasks as completed  
+- 🗑️ Remove tasks by task number  
+- 🛡️ Input validation using `int.TryParse()`  
+- 🚪 Clean exit using `Environment.Exit()`  
 
----
-
-## 🛠️ Tech Stack & Concepts
-
-✅ **C# (.NET 8 Console Applications)**  
-✅ **Data Structures:** Arrays (1D & 2D)  
-✅ **Core Concepts:** Methods, Switch Statements, Loops, Input Validation  
-✅ **Console I/O:** Structured user interaction and feedback
-
-**Bonus Highlights:**
-
-- 🎨 Colored console output in **Quiz Game**
-- 🧮 Use of `Math.Round` for score formatting
-- 🚪 Graceful termination with `Environment.Exit`
+📂 **Project Folder**: `TaskTracker`
 
 ---
 
-## 🏁 Getting Started
+## 📄 License & Author
 
-To run any project locally:
-
-1. **Install** the [.NET SDK](https://dotnet.microsoft.com/en-us/download)
-2. **Clone this repository**
-   ```bash
-   git clone https://github.com/a7medhazem/CSharp-Fundamentals-Projects.git
-   ```
+Created with ❤️ by [a7medhazem](https://github.com/a7medhazem)  
+Licensed under the [MIT License](LICENSE.md)
