@@ -16,15 +16,26 @@ Each project is simple, interactive, and built to demonstrate clean, organized c
 ### 🧾 Inventory Management System
 
 A console-based system for managing a product inventory (up to 50 products).  
-Users can **add, update, view, and remove products** via a menu-driven interface.
+Users interact with a menu-driven interface to perform inventory operations.
 
-**🔑 Key Features:**
+📋 **Menu Options**
 
-- ➕ Add products (name, quantity, price)
-- 🔄 Update existing product details
-- 👀 View all products with ID, name, quantity, and price
-- ❌ Remove products by ID
-- 🚪 Exit the program
+- [0] View Options  
+- [1] Add Product  
+- [2] Update Product  
+- [3] View Products  
+- [4] Remove Product  
+- [5] Exit  
+
+🔑 **Key Features**:
+
+- ➕ Add new products (name, quantity, price)  
+- 🔄 Update existing product details  
+- 📋 View all products with ID, name, quantity, and price  
+- ❌ Remove a product by ID  
+- 📌 Supports up to 50 products using a 2D string array  
+- 🛡️ Input validation using `int.TryParse()`  
+- 🔁 Uses loops, switch statements, and clean basic logic
 
 📂 **Project Folder:** `InventoryManagementSystem`
 
