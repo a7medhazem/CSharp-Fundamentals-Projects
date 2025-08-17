@@ -13,7 +13,7 @@ Each project is simple, interactive, and built to demonstrate clean, organized c
 
 ---
 
-### 🧾 Inventory Management System
+### ​ [Inventory Management System](./InventoryManagementSystem)
 
 A console-based system for managing a product inventory (up to 50 products).  
 Users interact with a menu-driven interface to perform inventory operations.
@@ -41,7 +41,7 @@ Users interact with a menu-driven interface to perform inventory operations.
 
 ---
 
-### 🧠 Quiz Game Console App
+### ​ [Quiz Game](./QuizGame)
 
 A fun general knowledge quiz that challenges users with **10 questions**, providing **immediate feedback** using colored console output.
 
@@ -58,7 +58,7 @@ A fun general knowledge quiz that challenges users with **10 questions**, provid
 
 ---
 
-### 📋 Task Tracker Console App
+### ​ [Task Tracker](./TaskTracker)
 
 A simple task management app where users can:
 
